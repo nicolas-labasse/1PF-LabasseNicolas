@@ -1,0 +1,39 @@
+a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(112, 112, 112);
+}
+
+.redondear{
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
+
+.ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.li{
+    list-style: none!important;
+    text-decoration: none;
+}
+
+.stars{
+    color: #acac18;
+}
+
+.starsbad{
+    color: #dc1814;
+}
+
+.masvisto{
+    border: 8px solid #72721d;
+}
